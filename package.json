@@ -1,0 +1,19 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Create a MySQL Database called bamazon. Then create a Table inside of that database called products. The products table should have each of the following columns:",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slacker2222/bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slacker2222/bamazon/issues"
+  },
+  "homepage": "https://github.com/slacker2222/bamazon#readme"
+}
